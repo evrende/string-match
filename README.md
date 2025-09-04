@@ -1,4 +1,4 @@
-# string_match
+# string-match
 
 **string\_match.py** is a text-based toy program written in Python (version 3.12) for generating long (100,000+ character) strings and testing them for the presence of substrings chosen and typed in by the user. A given substring will be found zero or more times in the long string, and the user will be able to see exactly how many times each chosen substring occurs. Each long string is randomly generated. Further details are provided in the source code of **string\_match.py** and its helper file **string\_match\_aux.py**. Be sure to download this second file and save it in the same folder as **string\_match.py**, as it will likely be needed!
 
